@@ -1,1 +1,2 @@
-
+perplexica
+open-webui:cuda
