@@ -1,2 +1,3 @@
 ghcr.io/open-webui/open-webui:cuda
 vllm/vllm-openai:latest
+onerahmet/openai-whisper-asr-webservice:latest-gpu
