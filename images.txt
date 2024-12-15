@@ -1,1 +1,1 @@
-ghcr.io/invoke-ai/invokeai
+ghcr.io/open-webui/open-webui:cuda
