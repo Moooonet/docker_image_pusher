@@ -1,3 +1,2 @@
-nginx
 ghcr.io/open-webui/open-webui:cuda
 ghcr.io/invoke-ai/invokeai
